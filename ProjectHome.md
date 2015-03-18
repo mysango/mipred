@@ -1,0 +1,1 @@
+MiPred: classification of real and pseudo microRNA precursors using random forest prediction model with combined features
